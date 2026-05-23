@@ -1,0 +1,50 @@
+{
+  "available_outputs": {
+    "iql_rewards": true,
+    "maddpg_rewards": true,
+    "clash_rewards": true,
+    "clash_tower_damage": true,
+    "clash_analysis_png": true,
+    "cooperation_comparison_png": true,
+    "maddpg_plot_png": true,
+    "iql_plot_png": true
+  },
+  "metrics": {
+    "iql_rewards": {
+      "name": "iql_rewards",
+      "episodes": 5,
+      "mean": 3788.0,
+      "std": 406.0123291015625,
+      "min": 3190.0,
+      "max": 4350.0,
+      "last": 3190.0
+    },
+    "maddpg_rewards": {
+      "name": "maddpg_rewards",
+      "episodes": 5,
+      "mean": 37.599998474121094,
+      "std": 3.9293766021728516,
+      "min": 33.0,
+      "max": 44.0,
+      "last": 33.0
+    },
+    "clash_rewards": {
+      "name": "clash_rewards",
+      "episodes": 20,
+      "mean": 39.0,
+      "std": 27.0,
+      "min": 0.0,
+      "max": 90.0,
+      "last": 30.0
+    },
+    "clash_tower_damage": {
+      "name": "clash_tower_damage",
+      "episodes": 20,
+      "mean": 26.0,
+      "std": 18.0,
+      "min": 0.0,
+      "max": 60.0,
+      "last": 20.0
+    }
+  }
+}

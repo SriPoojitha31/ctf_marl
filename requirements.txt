@@ -1,0 +1,18 @@
+numpy
+torch
+matplotlib
+imageio
+# Core
+numpy
+matplotlib
+tqdm
+
+# RL / Deep Learning
+torch
+gymnasium
+
+# Visualization (optional but useful)
+pygame
+
+# Utils
+pandas
